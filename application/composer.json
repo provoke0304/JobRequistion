@@ -1,0 +1,7 @@
+{
+    "name": "johanphillipbalauro/march242018",
+    "type": "project",
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
